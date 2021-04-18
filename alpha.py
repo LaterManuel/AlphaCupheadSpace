@@ -2,7 +2,7 @@ import pygame
 import random
 Dimensionx=960
 Dimensiony=350
-fondoespacial=pygame.image.load("fondo espacila.jpg")
+fondoespacial=pygame.image.load("fondo_espacial.jpg")
 playericon=pygame.image.load("cupheadvolador.png")
 trampaimage=pygame.image.load("bolita.png")
 class Trampa(pygame.sprite.Sprite):
